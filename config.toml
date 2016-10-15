@@ -21,7 +21,11 @@ HomepagePosts = 10
 SocialLinks = true
 
 # default: undefined
-GithubUsername = "petersme"
+GithubUsername = "meptrsn"
 
 # default: undefined
 TwitterUsername = "meptrsn"
+
+[taxonomies]
+tag = "tags"
+category = "categories"

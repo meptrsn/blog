@@ -1,0 +1,35 @@
+---
+pages:
+- post/test-post.md
+hide_body: false
+fields:
+- type: text
+  name: title
+  label: Title
+  description: Put title here
+  config:
+    required: true
+- type: datetime
+  label: Date
+  name: date
+  description: Enter date
+  config:
+    date_format: DD.MM.YYYY
+    time_format: HHmm
+    required: true
+  default: 2017-11-01 17:00:00 -0400
+- type: textarea
+  label: Main content
+  name: main
+  description: Main content goes here
+  config:
+    required: true
+    wysiwyg: false
+- type: tag_list
+  name: tags
+  label: Tags
+  description: Put tags here
+- type: image_gallery
+  name: pictures
+  label: Pictures
+  description: Put pictures here

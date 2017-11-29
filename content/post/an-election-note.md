@@ -1,6 +1,6 @@
 +++
 title = "An Election Note"
-draft = false
+draft = true
 date = "2016-11-09T18:14:32-05:00"
 
 +++

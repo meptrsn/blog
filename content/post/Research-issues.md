@@ -1,6 +1,6 @@
 +++
 title = "Research issues"
-draft = false
+draft = true 
 date = "2016-10-13T18:57:47-04:00"
 tags = ["Research", "Engineering", "Thesis"]
 +++

@@ -17,7 +17,7 @@ fields:
     date_format: DD.MM.YYYY
     time_format: HHmm
     required: true
-  default: 2017-11-01 17:00:00 -0400
+  default: 2017-11-01 21:00:00 +0000
 - type: tag_list
   name: tags
   label: Tags

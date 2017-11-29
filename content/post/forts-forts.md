@@ -1,10 +1,10 @@
 +++
-title = "Forts, Forts"
-draft = true
 date = "2016-10-15T01:46:35-04:00"
+draft = true
 tags = ["Research", "Schoolword", "Archaeology"]
-+++
+title = "Forts, Forts"
 
++++
 I'm now doing some research for a presentation next week on Egyptian forts in Nubia. It turns out that this is quite the topic, and the professor I'm taking the seminar with is quite interested in it. Specifically, she is heavily involved with excavations at Uronarti, a fortress in southern Lower Nubia. This is somewhat intimidating, and I'm not quite sure what I should do to ensure I do a good job. When I told her my choice of topic, she said: "going for the professor's research area, that's pretty ballsy"
 
 So that bodes well.

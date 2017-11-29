@@ -1,33 +1,14 @@
 baseurl = "https://meptrsn.github.io/blog/"
-title = "meptrsn"
 languageCode = "en-us"
-
+title = "meptrsn"
 [params]
-
+authorname = "Matthew Petersen"
+githubusername = "meptrsn"
+homepageposts = 10
+sociallinks = true
+tagline = "Engineering, Assyriology, and games."
 theme = "paperback"
-
-# your name to display by the copyright sign
-# default: undefined
-AuthorName = "Matthew Petersen"
-
-# tagline to show beneath homepage h1
-# default: undefined
-Tagline = "Engineering, Assyriology, and games."
-
-# number of posts to show on index
-# default: 10
-HomepagePosts = 10
-
-# if set to true, social links will be displayed in the footer
-# default: undefined
-SocialLinks = true
-
-# default: undefined
-GithubUsername = "meptrsn"
-
-# default: undefined
-TwitterUsername = "meptrsn"
-
+twitterusername = "meptrsn"
 [taxonomies]
-tag = "tags"
 category = "categories"
+tag = "tags"

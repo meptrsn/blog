@@ -1,10 +1,9 @@
 +++
-title = "Hallowe'en Update"
-draft = true
 date = "2016-11-04T01:54:53-04:00"
+draft = true
+title = "Hallowe'en Update"
 
 +++
-
 Well, it's the week following Hallowe'en. Since I last posted, I turned 21, had my parents visit, completed that presentation I was worried about, and participated in a Lovecraftian bike race. In addition, the house that I live in hosted a very nice Hallowe'en dance, and I finished some homework. So some good things.
 
 Unfortunately, on the horizon I see lots of work in my future. A midterm in my Akkadian letters seminar--I have to translate PBS 1/2 58, an unedited text from the Middle Babylonian period--and then I also have a presentation next week in the same archaeology course as last time.

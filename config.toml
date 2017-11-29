@@ -4,6 +4,8 @@ languageCode = "en-us"
 
 [params]
 
+theme = "paperback"
+
 # your name to display by the copyright sign
 # default: undefined
 AuthorName = "Matthew Petersen"

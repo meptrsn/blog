@@ -1,5 +1,6 @@
 +++
 date = "2017-07-26T18:51:52-07:00"
+draft = true
 tags = ["games"]
 title = "Starting Games in media res"
 

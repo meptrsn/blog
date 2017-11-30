@@ -1,13 +1,13 @@
 baseurl = "https://meptrsn.github.io/blog/"
 languageCode = "en-us"
 title = "meptrsn"
+theme = "paperback"
 [params]
 authorname = "Matthew Petersen"
 githubusername = "meptrsn"
 homepageposts = 10
 sociallinks = true
 tagline = "Engineering, Assyriology, and games."
-theme = "paperback"
 twitterusername = "meptrsn"
 [taxonomies]
 category = "categories"

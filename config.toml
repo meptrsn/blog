@@ -1,4 +1,4 @@
-baseurl = "https://meptrsn.github.io/blog/"
+baseurl = "https://blog.meptrsn.info/"
 languageCode = "en-us"
 theme = "paperback"
 title = "meptrsn"

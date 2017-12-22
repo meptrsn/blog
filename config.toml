@@ -1,4 +1,4 @@
-baseurl = "https://blog.meptrsn.info/"
+baseurl = "https://meptrsn.info/blog"
 languageCode = "en-us"
 theme = "paperback"
 title = "meptrsn"

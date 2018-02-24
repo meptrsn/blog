@@ -1,7 +1,7 @@
 baseurl = "https://meptrsn.info/blog"
 languageCode = "en-us"
 theme = "paperback @ fffb886"
-title = "meptrsn"
+title = "Letters"
 [params]
 authorname = "Matthew Petersen"
 githubusername = "meptrsn"

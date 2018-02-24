@@ -1,6 +1,6 @@
 baseurl = "https://meptrsn.info/blog"
 languageCode = "en-us"
-theme = "paperback @ fffb886"
+theme = "paperback"
 title = "Letters"
 [params]
 authorname = "Matthew Petersen"

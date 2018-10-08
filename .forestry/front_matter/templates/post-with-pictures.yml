@@ -1,7 +1,7 @@
 ---
-pages:
-- post/test-post.md
+label: Post with pictures
 hide_body: false
+is_partial: false
 fields:
 - type: text
   name: title
@@ -26,3 +26,5 @@ fields:
   name: pictures
   label: Pictures
   description: Put pictures here
+pages:
+- content/post/test-post.md
